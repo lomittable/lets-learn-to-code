@@ -10,4 +10,5 @@
 8. Start your server: `python3 manage.py runserver`
 9. Take down server with "Ctrl + C" then run `python3 manage.py migrate`
 10. Create super user: `python manage.py createsuperuser` - I like to use 'admin' and 'password'
+11. In Pycharm, right click the top level mysite directory > Mark Directory As > Sources Root
 
